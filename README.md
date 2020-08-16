@@ -1,4 +1,4 @@
-# GIVITY PROJECT
+# AUTOVIT SCRAPE
 
 ## To install
 In order to install the project run
